@@ -1,0 +1,14 @@
+C:\Users\harish.kokradi\Documents\Visual Studio 2015\Projects\Employee\Employee\bin\x86\Release\Employee.exe.config
+C:\Users\harish.kokradi\Documents\Visual Studio 2015\Projects\Employee\Employee\bin\x86\Release\Employee.exe
+C:\Users\harish.kokradi\Documents\Visual Studio 2015\Projects\Employee\Employee\bin\x86\Release\Employee.pdb
+C:\Users\harish.kokradi\Documents\Visual Studio 2015\Projects\Employee\Employee\bin\x86\Release\Employee.xml
+C:\Users\harish.kokradi\Documents\Visual Studio 2015\Projects\Employee\Employee\bin\x86\Release\EntityFramework.dll
+C:\Users\harish.kokradi\Documents\Visual Studio 2015\Projects\Employee\Employee\bin\x86\Release\LinqKit.dll
+C:\Users\harish.kokradi\Documents\Visual Studio 2015\Projects\Employee\Employee\bin\x86\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\harish.kokradi\Documents\Visual Studio 2015\Projects\Employee\Employee\obj\x86\Release\Employee.Employee_Form.resources
+C:\Users\harish.kokradi\Documents\Visual Studio 2015\Projects\Employee\Employee\obj\x86\Release\Employee.Employee.resources
+C:\Users\harish.kokradi\Documents\Visual Studio 2015\Projects\Employee\Employee\obj\x86\Release\Employee.Resources.resources
+C:\Users\harish.kokradi\Documents\Visual Studio 2015\Projects\Employee\Employee\obj\x86\Release\Employee.vbproj.GenerateResource.Cache
+C:\Users\harish.kokradi\Documents\Visual Studio 2015\Projects\Employee\Employee\obj\x86\Release\Employee.exe
+C:\Users\harish.kokradi\Documents\Visual Studio 2015\Projects\Employee\Employee\obj\x86\Release\Employee.xml
+C:\Users\harish.kokradi\Documents\Visual Studio 2015\Projects\Employee\Employee\obj\x86\Release\Employee.pdb
